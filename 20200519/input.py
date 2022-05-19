@@ -1,3 +1,6 @@
 a = int(input('請輸入數字1:'))
 b = int(input('請輸入數字2:'))
 print(a+b)
+print(a*2)
+print(b*2)
+print(a*b)
